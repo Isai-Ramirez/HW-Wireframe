@@ -23,6 +23,7 @@ header{
     background: #ebebeb;
     width: 1180px;
 }
+
 #section2{
     float:left;
     width: 495;
@@ -71,4 +72,13 @@ header{
     color:#ebebeb;
     
 
+}
+#footer{
+    padding: -20px;
+    margin-bottom: -20px;
+    margin-top:15px;
+    color:black;
+    background: #ebebeb;
+    width: 1180px;
+    clear: both;
 }
